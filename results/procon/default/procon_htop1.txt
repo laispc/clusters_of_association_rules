@@ -1,0 +1,17 @@
+Procurou.Empresa=S,Avaliação.Reclamação=Não Resolvida -> Nota.do.Consumidor=1
+Procurou.Empresa=S,Situação=Finalizada avaliada,Avaliação.Reclamação=Não Resolvida -> Nota.do.Consumidor=1
+Procurou.Empresa=S,Respondida=S,Avaliação.Reclamação=Não Resolvida -> Nota.do.Consumidor=1
+Procurou.Empresa=S,Respondida=S,Situação=Finalizada avaliada,Avaliação.Reclamação=Não Resolvida -> Nota.do.Consumidor=1
+Nota.do.Consumidor=1 -> Avaliação.Reclamação=Não Resolvida
+Avaliação.Reclamação=Não Resolvida -> Nota.do.Consumidor=1
+Situação=Finalizada avaliada,Nota.do.Consumidor=1 -> Avaliação.Reclamação=Não Resolvida
+Situação=Finalizada avaliada,Avaliação.Reclamação=Não Resolvida -> Nota.do.Consumidor=1
+Respondida=S,Nota.do.Consumidor=1 -> Avaliação.Reclamação=Não Resolvida
+Respondida=S,Situação=Finalizada avaliada,Nota.do.Consumidor=1 -> Avaliação.Reclamação=Não Resolvida
+Respondida=S,Avaliação.Reclamação=Não Resolvida -> Nota.do.Consumidor=1
+Respondida=S,Situação=Finalizada avaliada,Avaliação.Reclamação=Não Resolvida -> Nota.do.Consumidor=1
+Procurou.Empresa=S,Nota.do.Consumidor=1 -> Avaliação.Reclamação=Não Resolvida
+Procurou.Empresa=S,Situação=Finalizada avaliada,Nota.do.Consumidor=1 -> Avaliação.Reclamação=Não Resolvida
+Procurou.Empresa=S,Respondida=S,Nota.do.Consumidor=1 -> Avaliação.Reclamação=Não Resolvida
+Procurou.Empresa=S,Respondida=S,Situação=Finalizada avaliada,Nota.do.Consumidor=1 -> Avaliação.Reclamação=Não Resolvida
+Segmento.de.Mercado=Comércio Eletrônico,Respondida=S -> Como.Comprou.Contratou=Internet

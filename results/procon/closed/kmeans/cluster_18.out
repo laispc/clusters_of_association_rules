@@ -1,0 +1,101 @@
+como_comprou_contratou=Internet,respondida=S -> sexo=M
+como_comprou_contratou=Internet -> sexo=M
+como_comprou_contratou=Internet,procurou_empresa=S,respondida=S -> sexo=M
+como_comprou_contratou=Internet,procurou_empresa=S -> sexo=M
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2015,mes_abertura=1,respondida=S -> sexo=M
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2015,mes_abertura=1 -> sexo=M
+regiao=SE,como_comprou_contratou=Internet,respondida=S -> sexo=M
+regiao=SE,como_comprou_contratou=Internet -> sexo=M
+ano_abertura=2014,como_comprou_contratou=Internet,respondida=S -> sexo=M
+ano_abertura=2014,mes_abertura=12,como_comprou_contratou=Internet,respondida=S -> sexo=M
+ano_abertura=2014,como_comprou_contratou=Internet -> sexo=M
+ano_abertura=2014,mes_abertura=12,como_comprou_contratou=Internet -> sexo=M
+faixa_etaria=entre 21 a 30 anos,respondida=S -> sexo=M
+faixa_etaria=entre 21 a 30 anos -> sexo=M
+faixa_etaria=entre 21 a 30 anos,procurou_empresa=S,respondida=S -> sexo=M
+faixa_etaria=entre 21 a 30 anos,procurou_empresa=S -> sexo=M
+regiao=NE,respondida=S -> sexo=M
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2014,respondida=S -> sexo=M
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2014,mes_abertura=12,respondida=S -> sexo=M
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2014 -> sexo=M
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2014,mes_abertura=12 -> sexo=M
+regiao=NE -> sexo=M
+ano_abertura=2015,mes_abertura=1,respondida=S -> sexo=M
+ano_abertura=2015,mes_abertura=1 -> sexo=M
+regiao=NE,procurou_empresa=S,respondida=S -> sexo=M
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2014,procurou_empresa=S,respondida=S -> sexo=M
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2014,mes_abertura=12,procurou_empresa=S,respondida=S -> sexo=M
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2014,procurou_empresa=S -> sexo=M
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2014,mes_abertura=12,procurou_empresa=S -> sexo=M
+regiao=NE,procurou_empresa=S -> sexo=M
+ano_abertura=2015,mes_abertura=1,procurou_empresa=S,respondida=S -> sexo=M
+faixa_etaria=entre 31 a 40 anos,respondida=S -> sexo=M
+faixa_etaria=entre 31 a 40 anos -> sexo=M
+faixa_etaria=entre 31 a 40 anos,procurou_empresa=S -> sexo=M
+ano_abertura=2015,mes_abertura=1,procurou_empresa=S -> sexo=M
+faixa_etaria=entre 31 a 40 anos,procurou_empresa=S,respondida=S -> sexo=M
+regiao=SE,ano_abertura=2015,mes_abertura=1,procurou_empresa=S,respondida=S -> sexo=M
+regiao=SE,ano_abertura=2015,mes_abertura=1,procurou_empresa=S -> sexo=M
+tempo_resposta=10,respondida=S -> sexo=M
+regiao=SE,ano_abertura=2015,mes_abertura=1,respondida=S -> sexo=M
+regiao=SE,ano_abertura=2015,mes_abertura=1 -> sexo=M
+regiao=SE,respondida=S -> sexo=M
+regiao=SE -> sexo=M
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2014,mes_abertura=12 -> sexo=M
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2014,mes_abertura=12,respondida=S -> sexo=M
+respondida=S -> sexo=M
+regiao=SE,procurou_empresa=S,respondida=S -> sexo=M
+regiao=SE,procurou_empresa=S -> sexo=M
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2014,mes_abertura=12,procurou_empresa=S -> sexo=M
+tempo_resposta=10,procurou_empresa=S,respondida=S -> sexo=M
+regiao=SE,ano_abertura=2014,respondida=S -> sexo=M
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2014,mes_abertura=12,procurou_empresa=S,respondida=S -> sexo=M
+regiao=SE,ano_abertura=2014,mes_abertura=12,respondida=S -> sexo=M
+regiao=SE,ano_abertura=2014 -> sexo=M
+regiao=SE,ano_abertura=2014,mes_abertura=12 -> sexo=M
+procurou_empresa=S,respondida=S -> sexo=M
+procurou_empresa=S -> sexo=M
+regiao=SE,ano_abertura=2014,procurou_empresa=S -> sexo=M
+regiao=SE,ano_abertura=2014,mes_abertura=12,procurou_empresa=S -> sexo=M
+regiao=SE,ano_abertura=2014,procurou_empresa=S,respondida=S -> sexo=M
+regiao=SE,ano_abertura=2014,mes_abertura=12,procurou_empresa=S,respondida=S -> sexo=M
+como_comprou_contratou=Telefone,respondida=S -> sexo=M
+como_comprou_contratou=Telefone -> sexo=M
+ano_abertura=2014,respondida=S -> sexo=M
+ano_abertura=2014,mes_abertura=12,respondida=S -> sexo=M
+ano_abertura=2014 -> sexo=M
+ano_abertura=2014,mes_abertura=12 -> sexo=M
+como_comprou_contratou=Telefone,procurou_empresa=S,respondida=S -> sexo=M
+como_comprou_contratou=Telefone,procurou_empresa=S -> sexo=M
+regiao=S ,procurou_empresa=S -> sexo=M
+regiao=S ,procurou_empresa=S,respondida=S -> sexo=M
+regiao=S  -> sexo=M
+ano_abertura=2014,procurou_empresa=S,respondida=S -> sexo=M
+ano_abertura=2014,procurou_empresa=S -> sexo=M
+ano_abertura=2014,mes_abertura=12,procurou_empresa=S,respondida=S -> sexo=M
+ano_abertura=2014,mes_abertura=12,procurou_empresa=S -> sexo=M
+regiao=S ,respondida=S -> sexo=M
+regiao=SE,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+regiao=SE,uf=SP,respondida=S -> sexo=M
+regiao=SE,uf=SP -> sexo=M
+regiao=SE,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+regiao=SE,uf=SP,procurou_empresa=S,respondida=S -> sexo=M
+regiao=SE,uf=SP,procurou_empresa=S -> sexo=M
+como_comprou_contratou=Loja fÃ­sica,respondida=S -> sexo=M
+como_comprou_contratou=Loja fÃ­sica -> sexo=M
+como_comprou_contratou=Loja fÃ­sica,procurou_empresa=S,respondida=S -> sexo=M
+como_comprou_contratou=Loja fÃ­sica,procurou_empresa=S -> sexo=M
+respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+ano_abertura=2014,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+ano_abertura=2014,mes_abertura=12,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+ano_abertura=2014,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+ano_abertura=2014,mes_abertura=12,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+como_comprou_contratou=NÃ£o comprei / contratei,respondida=S -> sexo=M
+como_comprou_contratou=NÃ£o comprei / contratei -> sexo=M
+procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+ano_abertura=2014,procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+ano_abertura=2014,mes_abertura=12,procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+ano_abertura=2014,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+ano_abertura=2014,mes_abertura=12,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M

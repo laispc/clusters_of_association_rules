@@ -1,0 +1,22 @@
+regiao=SE,ano_abertura=2014 -> uf=SP
+regiao=SE,ano_abertura=2014,mes_abertura=12 -> uf=SP
+regiao=SE,ano_abertura=2014,respondida=S -> uf=SP
+regiao=SE,ano_abertura=2014,mes_abertura=12,respondida=S -> uf=SP
+regiao=SE,ano_abertura=2014,procurou_empresa=S -> uf=SP
+regiao=SE,ano_abertura=2014,mes_abertura=12,procurou_empresa=S -> uf=SP
+regiao=SE,ano_abertura=2014,procurou_empresa=S,respondida=S -> uf=SP
+regiao=SE,ano_abertura=2014,mes_abertura=12,procurou_empresa=S,respondida=S -> uf=SP
+regiao=SE,procurou_empresa=S -> uf=SP
+regiao=SE -> uf=SP
+regiao=SE,procurou_empresa=S,respondida=S -> uf=SP
+regiao=SE,respondida=S -> uf=SP
+regiao=SE,procurou_empresa=S,situacao=Finalizada avaliada -> uf=SP
+regiao=SE,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada -> uf=SP
+regiao=SE,ano_abertura=2015,mes_abertura=1 -> uf=SP
+regiao=SE,ano_abertura=2015,mes_abertura=1,respondida=S -> uf=SP
+regiao=SE,situacao=Finalizada avaliada -> uf=SP
+regiao=SE,respondida=S,situacao=Finalizada avaliada -> uf=SP
+regiao=SE,sexo=M -> uf=SP
+regiao=SE,sexo=M,respondida=S -> uf=SP
+regiao=SE,sexo=M,procurou_empresa=S -> uf=SP
+regiao=SE,sexo=M,procurou_empresa=S,respondida=S -> uf=SP

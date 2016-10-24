@@ -1,0 +1,17 @@
+regiao=S ,procurou_empresa=S,respondida=S -> uf=PR
+regiao=S ,procurou_empresa=S -> uf=PR
+regiao=S ,respondida=S -> uf=PR
+uf=PR -> regiao=S 
+uf=PR,procurou_empresa=S -> regiao=S 
+uf=PR,respondida=S -> regiao=S 
+uf=PR,procurou_empresa=S,respondida=S -> regiao=S 
+regiao=S  -> uf=PR
+sexo=M,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida -> nota_consumidor=1
+sexo=M,procurou_empresa=S,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida -> nota_consumidor=1
+sexo=M,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida -> nota_consumidor=1
+sexo=M,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida -> nota_consumidor=1
+sexo=M,respondida=S,situacao=Finalizada avaliada,nota_consumidor=1 -> avaliacao_reclamacao=NÃ£o Resolvida
+sexo=M,situacao=Finalizada avaliada,nota_consumidor=1 -> avaliacao_reclamacao=NÃ£o Resolvida
+sexo=M,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,nota_consumidor=1 -> avaliacao_reclamacao=NÃ£o Resolvida
+procurou_empresa=S,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida -> nota_consumidor=1
+sexo=M,procurou_empresa=S,situacao=Finalizada avaliada,nota_consumidor=1 -> avaliacao_reclamacao=NÃ£o Resolvida

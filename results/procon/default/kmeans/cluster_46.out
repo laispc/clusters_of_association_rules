@@ -1,0 +1,16 @@
+Ano.Abertura=2015,Segmento.de.Mercado=Operadoras de Telecomunicações (Telefonia, Internet, TV por assinatura),Respondida=S,Situação=Finalizada avaliada -> Avaliação.Reclamação=Resolvida
+Procurou.Empresa=S,Situação=Finalizada não avaliada,Avaliação.Reclamação=Não Avaliada -> Mês.Abertura=12
+Sexo=M,Mês.Abertura=1,Procurou.Empresa=S -> Situação=Finalizada avaliada
+Sexo=M,Ano.Abertura=2015,Mês.Abertura=1,Procurou.Empresa=S -> Situação=Finalizada avaliada
+Sexo=M,Ano.Abertura=2015,Procurou.Empresa=S,Respondida=S -> Situação=Finalizada avaliada
+Procurou.Empresa=S,Avaliação.Reclamação=Resolvida -> Respondida=S
+Faixa.Etária=entre 31 a 40 anos,Ano.Abertura=2015,Mês.Abertura=1 -> Respondida=S
+Sexo=M,Grupo.Problema=Cobrança / Contestação -> Respondida=S
+Sexo=M,Avaliação.Reclamação=Resolvida -> Procurou.Empresa=S
+Sexo=M,Como.Comprou.Contratou=Loja física -> Respondida=S
+Ano.Abertura=2015,Mês.Abertura=1,Grupo.Problema=Cobrança / Contestação,Situação=Finalizada avaliada -> Respondida=S
+Sexo=M,Ano.Abertura=2014 -> Procurou.Empresa=S
+Sexo=M,Ano.Abertura=2014,Respondida=S -> Procurou.Empresa=S
+Situação=Finalizada avaliada,Avaliação.Reclamação=Não Resolvida -> Respondida=S
+Faixa.Etária=entre 31 a 40 anos,Ano.Abertura=2014 -> Respondida=S
+Faixa.Etária=entre 21 a 30 anos,Mês.Abertura=1 -> Procurou.Empresa=S

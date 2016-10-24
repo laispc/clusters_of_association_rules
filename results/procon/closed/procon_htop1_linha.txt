@@ -1,0 +1,17 @@
+procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida -> nota_consumidor=1
+situacao=Finalizada avaliada,nota_consumidor=1 -> avaliacao_reclamacao=NÃ£o Resolvida
+situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida -> nota_consumidor=1
+respondida=S,situacao=Finalizada avaliada,nota_consumidor=1 -> avaliacao_reclamacao=NÃ£o Resolvida
+respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida -> nota_consumidor=1
+procurou_empresa=S,situacao=Finalizada avaliada,nota_consumidor=1 -> avaliacao_reclamacao=NÃ£o Resolvida
+procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,nota_consumidor=1 -> avaliacao_reclamacao=NÃ£o Resolvida
+ano_abertura=2015,mes_abertura=1,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> nota_consumidor=5
+ano_abertura=2015,mes_abertura=1,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> nota_consumidor=5
+sexo=M,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> nota_consumidor=5
+sexo=M,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> nota_consumidor=5
+ano_abertura=2015,mes_abertura=1,respondida=S,situacao=Finalizada avaliada,nota_consumidor=5 -> avaliacao_reclamacao=Resolvida
+ano_abertura=2015,mes_abertura=1,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,nota_consumidor=5 -> avaliacao_reclamacao=Resolvida
+sexo=M,procurou_empresa=S,situacao=Finalizada avaliada,nota_consumidor=5 -> avaliacao_reclamacao=Resolvida
+sexo=M,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,nota_consumidor=5 -> avaliacao_reclamacao=Resolvida
+sexo=M,situacao=Finalizada avaliada,nota_consumidor=5 -> avaliacao_reclamacao=Resolvida
+sexo=M,respondida=S,situacao=Finalizada avaliada,nota_consumidor=5 -> avaliacao_reclamacao=Resolvida

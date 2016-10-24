@@ -1,0 +1,225 @@
+regiao=S ,procurou_empresa=S,respondida=S -> uf=PR
+regiao=S ,procurou_empresa=S -> uf=PR
+regiao=S ,respondida=S -> uf=PR
+uf=PR -> regiao=S 
+uf=PR,procurou_empresa=S -> regiao=S 
+uf=PR,respondida=S -> regiao=S 
+uf=PR,procurou_empresa=S,respondida=S -> regiao=S 
+regiao=S  -> uf=PR
+regiao=SE,procurou_empresa=S -> uf=SP
+uf=RJ -> regiao=SE
+uf=SP -> regiao=SE
+uf=RJ,respondida=S -> regiao=SE
+uf=SP,sexo=M -> regiao=SE
+uf=SP,procurou_empresa=S -> regiao=SE
+uf=SP,respondida=S -> regiao=SE
+uf=SP,sexo=M,procurou_empresa=S -> regiao=SE
+uf=SP,sexo=M,respondida=S -> regiao=SE
+uf=SP,procurou_empresa=S,respondida=S -> regiao=SE
+uf=SP,sexo=M,procurou_empresa=S,respondida=S -> regiao=SE
+regiao=SE -> uf=SP
+regiao=SE,procurou_empresa=S,respondida=S -> uf=SP
+regiao=SE,respondida=S -> uf=SP
+regiao=SE,sexo=M -> uf=SP
+regiao=SE,sexo=M,respondida=S -> uf=SP
+regiao=SE,sexo=M,procurou_empresa=S -> uf=SP
+regiao=SE,sexo=M,procurou_empresa=S,respondida=S -> uf=SP
+como_comprou_contratou=Internet -> regiao=SE
+como_comprou_contratou=Internet,respondida=S -> regiao=SE
+como_comprou_contratou=Internet,procurou_empresa=S -> regiao=SE
+como_comprou_contratou=Internet,procurou_empresa=S,respondida=S -> regiao=SE
+sexo=M,como_comprou_contratou=Internet -> regiao=SE
+sexo=M,como_comprou_contratou=Internet,respondida=S -> regiao=SE
+como_comprou_contratou=Internet,respondida=S -> sexo=M
+como_comprou_contratou=Internet -> sexo=M
+como_comprou_contratou=Internet,procurou_empresa=S,respondida=S -> sexo=M
+como_comprou_contratou=Internet,procurou_empresa=S -> sexo=M
+regiao=SE,como_comprou_contratou=Internet,respondida=S -> sexo=M
+regiao=SE,como_comprou_contratou=Internet -> sexo=M
+faixa_etaria=entre 21 a 30 anos,respondida=S -> sexo=M
+faixa_etaria=entre 21 a 30 anos -> sexo=M
+faixa_etaria=entre 21 a 30 anos,procurou_empresa=S,respondida=S -> sexo=M
+faixa_etaria=entre 21 a 30 anos,procurou_empresa=S -> sexo=M
+regiao=SE,como_comprou_contratou=Telefone -> procurou_empresa=S
+regiao=SE,como_comprou_contratou=Telefone,respondida=S -> procurou_empresa=S
+regiao=NE,respondida=S -> sexo=M
+como_comprou_contratou=Telefone -> procurou_empresa=S
+como_comprou_contratou=Telefone,respondida=S -> procurou_empresa=S
+regiao=NE -> sexo=M
+regiao=S ,uf=PR -> procurou_empresa=S
+regiao=S ,uf=PR,respondida=S -> procurou_empresa=S
+regiao=S ,sexo=M -> procurou_empresa=S
+regiao=S ,sexo=M,respondida=S -> procurou_empresa=S
+regiao=NE,procurou_empresa=S,respondida=S -> sexo=M
+regiao=S  -> procurou_empresa=S
+regiao=S ,respondida=S -> procurou_empresa=S
+sexo=M,como_comprou_contratou=Telefone -> procurou_empresa=S
+sexo=M,como_comprou_contratou=Telefone,respondida=S -> procurou_empresa=S
+tempo_resposta=7,respondida=S -> procurou_empresa=S
+regiao=NE,procurou_empresa=S -> sexo=M
+faixa_etaria=entre 31 a 40 anos,respondida=S -> sexo=M
+faixa_etaria=entre 31 a 40 anos -> sexo=M
+faixa_etaria=entre 31 a 40 anos,procurou_empresa=S -> sexo=M
+faixa_etaria=entre 31 a 40 anos,procurou_empresa=S,respondida=S -> sexo=M
+tempo_resposta=9,respondida=S -> procurou_empresa=S
+sexo=F,faixa_etaria=entre 31 a 40 anos,respondida=S -> procurou_empresa=S
+faixa_etaria=entre 31 a 40 anos,respondida=S -> procurou_empresa=S
+sexo=F,faixa_etaria=entre 31 a 40 anos -> procurou_empresa=S
+faixa_etaria=entre 31 a 40 anos -> procurou_empresa=S
+sexo=M,faixa_etaria=entre 31 a 40 anos,respondida=S -> procurou_empresa=S
+sexo=M,faixa_etaria=entre 31 a 40 anos -> procurou_empresa=S
+regiao=SE,faixa_etaria=entre 31 a 40 anos,respondida=S -> procurou_empresa=S
+regiao=SE,faixa_etaria=entre 31 a 40 anos -> procurou_empresa=S
+faixa_etaria=entre 41 a 50 anos -> procurou_empresa=S
+tempo_resposta=10,respondida=S -> sexo=M
+faixa_etaria=entre 41 a 50 anos,respondida=S -> procurou_empresa=S
+sexo=F,respondida=S -> procurou_empresa=S
+tempo_resposta=10,respondida=S -> procurou_empresa=S
+sexo=F -> procurou_empresa=S
+tempo_resposta=8,respondida=S -> procurou_empresa=S
+nome_fantasia=Oi Fixo -> respondida=S
+nome_fantasia=Vivo - TelefÃ´nica  -> respondida=S
+tempo_resposta=7 -> respondida=S
+tempo_resposta=9 -> respondida=S
+tempo_resposta=8 -> respondida=S
+tempo_resposta=10 -> respondida=S
+nome_fantasia=Vivo - TelefÃ´nica ,procurou_empresa=S -> respondida=S
+tempo_resposta=7,procurou_empresa=S -> respondida=S
+tempo_resposta=9,procurou_empresa=S -> respondida=S
+tempo_resposta=8,procurou_empresa=S -> respondida=S
+regiao=SE,tempo_resposta=10 -> respondida=S
+sexo=M,tempo_resposta=10 -> respondida=S
+tempo_resposta=10,procurou_empresa=S -> respondida=S
+sexo=M,tempo_resposta=10,procurou_empresa=S -> respondida=S
+regiao=SE,respondida=S -> sexo=M
+sexo=M,como_comprou_contratou=NÃ£o comprei / contratei -> respondida=S
+como_comprou_contratou=NÃ£o comprei / contratei -> respondida=S
+como_comprou_contratou=NÃ£o comprei / contratei,procurou_empresa=S -> respondida=S
+regiao=SE -> sexo=M
+regiao=NE,sexo=M -> respondida=S
+sexo=M,como_comprou_contratou=Telefone -> respondida=S
+como_comprou_contratou=Telefone -> respondida=S
+regiao=NE,sexo=M,procurou_empresa=S -> respondida=S
+sexo=M,como_comprou_contratou=Telefone,procurou_empresa=S -> respondida=S
+regiao=S ,uf=PR -> respondida=S
+como_comprou_contratou=Telefone,procurou_empresa=S -> respondida=S
+regiao=S  -> respondida=S
+regiao=S ,uf=PR,procurou_empresa=S -> respondida=S
+regiao=S ,procurou_empresa=S -> respondida=S
+faixa_etaria=entre 41 a 50 anos -> respondida=S
+regiao=SE,como_comprou_contratou=Loja fÃ­sica -> respondida=S
+regiao=SE,como_comprou_contratou=Telefone -> respondida=S
+faixa_etaria=entre 41 a 50 anos,procurou_empresa=S -> respondida=S
+sexo=M,como_comprou_contratou=Loja fÃ­sica -> respondida=S
+regiao=S ,sexo=M -> respondida=S
+como_comprou_contratou=Loja fÃ­sica -> procurou_empresa=S
+regiao=SE,como_comprou_contratou=Telefone,procurou_empresa=S -> respondida=S
+regiao=S ,sexo=M,procurou_empresa=S -> respondida=S
+sexo=M,como_comprou_contratou=Loja fÃ­sica,procurou_empresa=S -> respondida=S
+sexo=M,faixa_etaria=entre 21 a 30 anos -> respondida=S
+como_comprou_contratou=Loja fÃ­sica,respondida=S -> procurou_empresa=S
+sexo=M -> respondida=S
+respondida=S -> sexo=M
+sexo=M,faixa_etaria=entre 21 a 30 anos,procurou_empresa=S -> respondida=S
+faixa_etaria=entre 21 a 30 anos,como_comprou_contratou=Internet -> respondida=S
+sexo=M,procurou_empresa=S -> respondida=S
+como_comprou_contratou=Loja fÃ­sica -> respondida=S
+regiao=SE,procurou_empresa=S,respondida=S -> sexo=M
+regiao=SE,uf=RJ -> respondida=S
+regiao=SE,faixa_etaria=entre 21 a 30 anos -> respondida=S
+regiao=NE -> respondida=S
+regiao=SE,procurou_empresa=S -> sexo=M
+procurou_empresa=S -> respondida=S
+respondida=S -> procurou_empresa=S
+como_comprou_contratou=Loja fÃ­sica,procurou_empresa=S -> respondida=S
+tempo_resposta=10,procurou_empresa=S,respondida=S -> sexo=M
+faixa_etaria=entre 21 a 30 anos -> respondida=S
+regiao=SE,sexo=M -> respondida=S
+regiao=NE,procurou_empresa=S -> respondida=S
+regiao=SE,faixa_etaria=entre 21 a 30 anos,procurou_empresa=S -> respondida=S
+regiao=SE,sexo=F,respondida=S -> procurou_empresa=S
+sexo=F,faixa_etaria=entre 31 a 40 anos,procurou_empresa=S -> respondida=S
+regiao=SE,sexo=M,procurou_empresa=S -> respondida=S
+faixa_etaria=entre 21 a 30 anos,procurou_empresa=S -> respondida=S
+regiao=SE,uf=SP,sexo=M -> respondida=S
+regiao=SE -> respondida=S
+regiao=SE,procurou_empresa=S -> respondida=S
+sexo=M,como_comprou_contratou=Loja fÃ­sica -> procurou_empresa=S
+sexo=F,procurou_empresa=S -> respondida=S
+sexo=F -> respondida=S
+regiao=SE,sexo=F,procurou_empresa=S -> respondida=S
+faixa_etaria=entre 31 a 40 anos,procurou_empresa=S -> respondida=S
+sexo=M,como_comprou_contratou=Loja fÃ­sica,respondida=S -> procurou_empresa=S
+regiao=SE,sexo=F -> procurou_empresa=S
+regiao=SE,uf=SP,sexo=M,procurou_empresa=S -> respondida=S
+regiao=SE,uf=SP,procurou_empresa=S -> respondida=S
+sexo=M,faixa_etaria=entre 31 a 40 anos,procurou_empresa=S -> respondida=S
+sexo=M,faixa_etaria=entre 31 a 40 anos -> respondida=S
+faixa_etaria=entre 31 a 40 anos -> respondida=S
+regiao=SE,uf=SP -> respondida=S
+regiao=SE,sexo=F -> respondida=S
+sexo=F,faixa_etaria=entre 31 a 40 anos -> respondida=S
+sexo=F,faixa_etaria=entre 21 a 30 anos -> respondida=S
+regiao=NE -> procurou_empresa=S
+sexo=M,tempo_resposta=10,respondida=S -> procurou_empresa=S
+sexo=F,faixa_etaria=entre 21 a 30 anos,procurou_empresa=S -> respondida=S
+regiao=NE,respondida=S -> procurou_empresa=S
+sexo=M,como_comprou_contratou=Internet -> respondida=S
+sexo=M,como_comprou_contratou=Internet,procurou_empresa=S -> respondida=S
+como_comprou_contratou=Internet,procurou_empresa=S -> respondida=S
+como_comprou_contratou=Internet -> respondida=S
+regiao=SE,faixa_etaria=entre 31 a 40 anos,procurou_empresa=S -> respondida=S
+sexo=F,faixa_etaria=entre 21 a 30 anos -> procurou_empresa=S
+procurou_empresa=S,respondida=S -> sexo=M
+regiao=SE,sexo=M,como_comprou_contratou=Internet -> respondida=S
+sexo=M -> procurou_empresa=S
+procurou_empresa=S -> sexo=M
+regiao=SE,faixa_etaria=entre 31 a 40 anos -> respondida=S
+regiao=SE,uf=SP,respondida=S -> procurou_empresa=S
+sexo=F,faixa_etaria=entre 21 a 30 anos,respondida=S -> procurou_empresa=S
+sexo=M,respondida=S -> procurou_empresa=S
+regiao=SE,uf=SP -> procurou_empresa=S
+regiao=SE -> procurou_empresa=S
+regiao=SE,respondida=S -> procurou_empresa=S
+regiao=SE,como_comprou_contratou=Internet,procurou_empresa=S -> respondida=S
+regiao=SE,como_comprou_contratou=Internet -> respondida=S
+regiao=NE,sexo=M -> procurou_empresa=S
+regiao=NE,sexo=M,respondida=S -> procurou_empresa=S
+como_comprou_contratou=NÃ£o comprei / contratei -> procurou_empresa=S
+como_comprou_contratou=NÃ£o comprei / contratei,respondida=S -> procurou_empresa=S
+regiao=SE,sexo=M -> procurou_empresa=S
+regiao=SE,sexo=M,respondida=S -> procurou_empresa=S
+regiao=SE,uf=SP,sexo=M -> procurou_empresa=S
+regiao=SE,uf=SP,sexo=M,respondida=S -> procurou_empresa=S
+faixa_etaria=entre 21 a 30 anos,como_comprou_contratou=Internet -> procurou_empresa=S
+como_comprou_contratou=Telefone,respondida=S -> sexo=M
+como_comprou_contratou=Telefone -> sexo=M
+faixa_etaria=entre 21 a 30 anos -> procurou_empresa=S
+faixa_etaria=entre 21 a 30 anos,respondida=S -> procurou_empresa=S
+como_comprou_contratou=Telefone,procurou_empresa=S,respondida=S -> sexo=M
+como_comprou_contratou=Telefone,procurou_empresa=S -> sexo=M
+regiao=S ,procurou_empresa=S -> sexo=M
+como_comprou_contratou=Internet,respondida=S -> procurou_empresa=S
+como_comprou_contratou=Internet -> procurou_empresa=S
+regiao=S ,procurou_empresa=S,respondida=S -> sexo=M
+regiao=SE,faixa_etaria=entre 21 a 30 anos -> procurou_empresa=S
+sexo=M,faixa_etaria=entre 21 a 30 anos -> procurou_empresa=S
+regiao=S  -> sexo=M
+sexo=M,faixa_etaria=entre 21 a 30 anos,respondida=S -> procurou_empresa=S
+regiao=SE,faixa_etaria=entre 21 a 30 anos,respondida=S -> procurou_empresa=S
+regiao=S ,respondida=S -> sexo=M
+nome_fantasia=Vivo - TelefÃ´nica ,respondida=S -> procurou_empresa=S
+regiao=SE,uf=SP,respondida=S -> sexo=M
+regiao=SE,uf=SP -> sexo=M
+sexo=M,como_comprou_contratou=Internet -> procurou_empresa=S
+sexo=M,como_comprou_contratou=Internet,respondida=S -> procurou_empresa=S
+regiao=SE,uf=SP,procurou_empresa=S,respondida=S -> sexo=M
+regiao=SE,uf=SP,procurou_empresa=S -> sexo=M
+regiao=SE,como_comprou_contratou=Internet,respondida=S -> procurou_empresa=S
+regiao=SE,como_comprou_contratou=Internet -> procurou_empresa=S
+como_comprou_contratou=Loja fÃ­sica,respondida=S -> sexo=M
+como_comprou_contratou=Loja fÃ­sica -> sexo=M
+como_comprou_contratou=Loja fÃ­sica,procurou_empresa=S,respondida=S -> sexo=M
+como_comprou_contratou=Loja fÃ­sica,procurou_empresa=S -> sexo=M
+como_comprou_contratou=NÃ£o comprei / contratei,respondida=S -> sexo=M
+como_comprou_contratou=NÃ£o comprei / contratei -> sexo=M

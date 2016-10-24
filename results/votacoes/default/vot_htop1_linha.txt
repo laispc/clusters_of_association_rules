@@ -1,0 +1,19 @@
+partido=pmdb,orientacao_partido=liberado -> cunha=liberado
+descr=INVERSÃO DE PAUTA_PEC_471_2005 -> orientacao_gov=não
+descr=REQ. DE VOTAÇÃO NOMINAL DO REQUERIMENTO DE RETIRADA DE PAUTA_MPV_698_2015 -> orientacao_gov=não
+descr=URGÊNCIA PARA APRECIAÇÃO DO PDC Nº 1.408/2013_REQ_2027_2015 -> orientacao_gov=não
+descr=REQUERIMENTO DE RETIRADA DE PAUTA_PL_2960_2015 -> orientacao_gov=não
+cunha=sim,descr=INVERSÃO DE PAUTA_PEC_471_2005 -> orientacao_gov=não
+cunha=não,descr=REQ. DE VOTAÇÃO NOMINAL DO REQUERIMENTO DE RETIRADA DE PAUTA_MPV_698_2015 -> orientacao_gov=não
+cunha=liberado,descr=URGÊNCIA PARA APRECIAÇÃO DO PDC Nº 1.408/2013_REQ_2027_2015 -> orientacao_gov=não
+cunha=não,descr=REQUERIMENTO DE RETIRADA DE PAUTA_PL_2960_2015 -> orientacao_gov=não
+partido=pt,voto=não,orientacao_partido=não,cunha=não -> orientacao_gov=não
+partido=pt,voto=não,cunha=não -> orientacao_gov=não
+partido=dem,orientacao_partido=sim,cunha=não -> orientacao_gov=não
+partido=pt,orientacao_partido=não,cunha=não -> orientacao_gov=não
+partido=pt,voto=não,orientacao_gov=não,cunha=não -> orientacao_partido=não
+partido=pt,voto=não,orientacao_gov=não -> orientacao_partido=não
+partido=pt,uf=SP,voto=não,orientacao_gov=não -> orientacao_partido=não
+partido=pt,voto=não,orientacao_gov=não,cunha=sim -> orientacao_partido=não
+partido=pt,voto=não,cunha=não -> orientacao_partido=não
+partido=pcdob,voto=não,orientacao_gov=não -> orientacao_partido=não

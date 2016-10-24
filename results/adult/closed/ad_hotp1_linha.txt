@@ -1,0 +1,15 @@
+workclass=Private,marital-status=Married-civ-spouse,race=White,capital-gain=None,capital-loss=None -> sex=Male
+workclass=Private,marital-status=Married-civ-spouse,race=White -> sex=Male
+marital-status=Married-civ-spouse,race=White,capital-gain=None -> sex=Male
+workclass=Private,marital-status=Married-civ-spouse,race=White,capital-loss=None -> sex=Male
+marital-status=Married-civ-spouse,race=White,capital-gain=None,capital-loss=None -> sex=Male
+marital-status=Married-civ-spouse,race=White -> sex=Male
+marital-status=Married-civ-spouse,race=White,capital-loss=None -> sex=Male
+workclass=Private,marital-status=Married-civ-spouse,capital-gain=None,native-country=United-States -> sex=Male
+workclass=Private,marital-status=Married-civ-spouse,capital-gain=None,capital-loss=None,native-country=United-States -> sex=Male
+workclass=Private,marital-status=Married-civ-spouse,native-country=United-States -> sex=Male
+workclass=Private,marital-status=Married-civ-spouse,capital-loss=None,native-country=United-States -> sex=Male
+marital-status=Married-civ-spouse,capital-gain=None,native-country=United-States -> sex=Male
+marital-status=Married-civ-spouse,capital-gain=None,capital-loss=None,native-country=United-States -> sex=Male
+marital-status=Married-civ-spouse,native-country=United-States -> sex=Male
+marital-status=Married-civ-spouse,capital-loss=None,native-country=United-States -> sex=Male

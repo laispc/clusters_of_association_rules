@@ -1,0 +1,14 @@
+Ano.Abertura=2014,Segmento.de.Mercado=Operadoras de Telecomunicações (Telefonia, Internet, TV por assinatura) -> Mês.Abertura=12
+Mês.Abertura=1,Respondida=S,Avaliação.Reclamação=Resolvida -> Situação=Finalizada avaliada
+Sexo=M,Ano.Abertura=2015,Mês.Abertura=1,Procurou.Empresa=S,Avaliação.Reclamação=Resolvida -> Situação=Finalizada avaliada
+Sexo=F,Procurou.Empresa=S,Situação=Finalizada não avaliada -> Ano.Abertura=2014
+Ano.Abertura=2014,Mês.Abertura=12,Segmento.de.Mercado=Operadoras de Telecomunicações (Telefonia, Internet, TV por assinatura),Avaliação.Reclamação=Não Avaliada -> Procurou.Empresa=S
+Mês.Abertura=1,Segmento.de.Mercado=Operadoras de Telecomunicações (Telefonia, Internet, TV por assinatura),Respondida=S -> Procurou.Empresa=S
+Tempo.Resposta=10 -> Procurou.Empresa=S
+Ano.Abertura=2015,Segmento.de.Mercado=Operadoras de Telecomunicações (Telefonia, Internet, TV por assinatura),Avaliação.Reclamação=Resolvida -> Procurou.Empresa=S
+Sexo=M,Ano.Abertura=2014,Mês.Abertura=12,Segmento.de.Mercado=Operadoras de Telecomunicações (Telefonia, Internet, TV por assinatura) -> Respondida=S
+Ano.Abertura=2014,Mês.Abertura=12,Segmento.de.Mercado=Operadoras de Telecomunicações (Telefonia, Internet, TV por assinatura),Situação=Finalizada não avaliada,Avaliação.Reclamação=Não Avaliada -> Respondida=S
+UF=SP,Respondida=S,Situação=Finalizada avaliada -> Procurou.Empresa=S
+Sexo=F,Situação=Finalizada avaliada -> Respondida=S
+UF=SP,Sexo=M,Procurou.Empresa=S -> Respondida=S
+Sexo=M,Ano.Abertura=2014,Procurou.Empresa=S -> Respondida=S

@@ -1,0 +1,15 @@
+age.60.69,inv.nodes.0.2,irradiat.no -> menopause.ge40
+age.60.69,inv.nodes.0.2,node.caps.no,irradiat.no -> menopause.ge40
+age.60.69,inv.nodes.0.2,Class.no.recurrence.events -> menopause.ge40
+age.60.69,inv.nodes.0.2,node.caps.no,Class.no.recurrence.events -> menopause.ge40
+age.60.69,irradiat.no,Class.no.recurrence.events -> menopause.ge40
+age.60.69,breast.left -> menopause.ge40
+age.60.69,inv.nodes.0.2,irradiat.no,Class.no.recurrence.events -> menopause.ge40
+age.60.69,node.caps.no,irradiat.no,Class.no.recurrence.events -> menopause.ge40
+age.60.69,inv.nodes.0.2,node.caps.no,irradiat.no,Class.no.recurrence.events -> menopause.ge40
+age.60.69,node.caps.no,breast.left -> menopause.ge40
+age.60.69,breast.left,Class.no.recurrence.events -> menopause.ge40
+age.60.69,inv.nodes.0.2,breast.left -> menopause.ge40
+age.60.69,breast.left,irradiat.no -> menopause.ge40
+age.60.69,inv.nodes.0.2,node.caps.no,breast.left -> menopause.ge40
+age.30.39,breast.left -> menopause.premeno

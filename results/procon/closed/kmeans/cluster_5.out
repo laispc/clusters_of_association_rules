@@ -1,0 +1,93 @@
+ano_abertura=2015 -> mes_abertura=1
+ano_abertura=2015,como_comprou_contratou=Telefone -> mes_abertura=1
+ano_abertura=2015,como_comprou_contratou=Internet -> mes_abertura=1
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2015 -> mes_abertura=1
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2015 -> mes_abertura=1
+sexo=F,ano_abertura=2015 -> mes_abertura=1
+regiao=SE,ano_abertura=2015 -> mes_abertura=1
+ano_abertura=2015,situacao=Finalizada avaliada -> mes_abertura=1
+sexo=M,ano_abertura=2015 -> mes_abertura=1
+ano_abertura=2015,procurou_empresa=S -> mes_abertura=1
+ano_abertura=2015,respondida=S -> mes_abertura=1
+ano_abertura=2015,situacao=Finalizada avaliada,nota_consumidor=1 -> mes_abertura=1
+ano_abertura=2015,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida -> mes_abertura=1
+regiao=S ,ano_abertura=2015,respondida=S -> mes_abertura=1
+regiao=SE,uf=SP,ano_abertura=2015 -> mes_abertura=1
+ano_abertura=2015,como_comprou_contratou=Telefone,situacao=Finalizada avaliada -> mes_abertura=1
+ano_abertura=2015,como_comprou_contratou=Telefone,procurou_empresa=S -> mes_abertura=1
+ano_abertura=2015,como_comprou_contratou=Telefone,respondida=S -> mes_abertura=1
+ano_abertura=2015,como_comprou_contratou=Internet,situacao=Finalizada avaliada -> mes_abertura=1
+ano_abertura=2015,como_comprou_contratou=Internet,respondida=S -> mes_abertura=1
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2015,situacao=Finalizada avaliada -> mes_abertura=1
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2015,procurou_empresa=S -> mes_abertura=1
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2015,respondida=S -> mes_abertura=1
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2015,situacao=Finalizada avaliada -> mes_abertura=1
+sexo=M,faixa_etaria=entre 21 a 30 anos,ano_abertura=2015 -> mes_abertura=1
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2015,procurou_empresa=S -> mes_abertura=1
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2015,respondida=S -> mes_abertura=1
+sexo=F,ano_abertura=2015,situacao=Finalizada avaliada -> mes_abertura=1
+sexo=F,ano_abertura=2015,procurou_empresa=S -> mes_abertura=1
+sexo=F,ano_abertura=2015,respondida=S -> mes_abertura=1
+ano_abertura=2015,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> mes_abertura=1
+regiao=SE,ano_abertura=2015,situacao=Finalizada avaliada -> mes_abertura=1
+regiao=SE,sexo=M,ano_abertura=2015 -> mes_abertura=1
+regiao=SE,ano_abertura=2015,procurou_empresa=S -> mes_abertura=1
+regiao=SE,ano_abertura=2015,respondida=S -> mes_abertura=1
+sexo=M,ano_abertura=2015,situacao=Finalizada avaliada -> mes_abertura=1
+ano_abertura=2015,procurou_empresa=S,situacao=Finalizada avaliada -> mes_abertura=1
+ano_abertura=2015,respondida=S,situacao=Finalizada avaliada -> mes_abertura=1
+sexo=M,ano_abertura=2015,procurou_empresa=S -> mes_abertura=1
+sexo=M,ano_abertura=2015,respondida=S -> mes_abertura=1
+ano_abertura=2015,procurou_empresa=S,respondida=S -> mes_abertura=1
+ano_abertura=2015,procurou_empresa=S,situacao=Finalizada avaliada,nota_consumidor=1 -> mes_abertura=1
+ano_abertura=2015,respondida=S,situacao=Finalizada avaliada,nota_consumidor=1 -> mes_abertura=1
+ano_abertura=2015,respondida=S,situacao=Finalizada avaliada,nota_consumidor=5 -> mes_abertura=1
+ano_abertura=2015,procurou_empresa=S,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida -> mes_abertura=1
+ano_abertura=2015,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida -> mes_abertura=1
+regiao=SE,uf=SP,ano_abertura=2015,respondida=S -> mes_abertura=1
+ano_abertura=2015,como_comprou_contratou=Telefone,procurou_empresa=S,situacao=Finalizada avaliada -> mes_abertura=1
+ano_abertura=2015,como_comprou_contratou=Telefone,respondida=S,situacao=Finalizada avaliada -> mes_abertura=1
+ano_abertura=2015,como_comprou_contratou=Telefone,procurou_empresa=S,respondida=S -> mes_abertura=1
+ano_abertura=2015,como_comprou_contratou=Internet,respondida=S,situacao=Finalizada avaliada -> mes_abertura=1
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2015,procurou_empresa=S,situacao=Finalizada avaliada -> mes_abertura=1
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2015,respondida=S,situacao=Finalizada avaliada -> mes_abertura=1
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2015,procurou_empresa=S,respondida=S -> mes_abertura=1
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2015,procurou_empresa=S,situacao=Finalizada avaliada -> mes_abertura=1
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2015,respondida=S,situacao=Finalizada avaliada -> mes_abertura=1
+sexo=M,faixa_etaria=entre 21 a 30 anos,ano_abertura=2015,respondida=S -> mes_abertura=1
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2015,procurou_empresa=S,respondida=S -> mes_abertura=1
+sexo=F,ano_abertura=2015,procurou_empresa=S,situacao=Finalizada avaliada -> mes_abertura=1
+sexo=F,ano_abertura=2015,respondida=S,situacao=Finalizada avaliada -> mes_abertura=1
+sexo=F,ano_abertura=2015,procurou_empresa=S,respondida=S -> mes_abertura=1
+regiao=SE,ano_abertura=2015,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> mes_abertura=1
+ano_abertura=2015,procurou_empresa=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> mes_abertura=1
+ano_abertura=2015,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> mes_abertura=1
+regiao=SE,sexo=M,ano_abertura=2015,situacao=Finalizada avaliada -> mes_abertura=1
+regiao=SE,ano_abertura=2015,procurou_empresa=S,situacao=Finalizada avaliada -> mes_abertura=1
+regiao=SE,ano_abertura=2015,respondida=S,situacao=Finalizada avaliada -> mes_abertura=1
+regiao=SE,sexo=M,ano_abertura=2015,procurou_empresa=S -> mes_abertura=1
+regiao=SE,sexo=M,ano_abertura=2015,respondida=S -> mes_abertura=1
+regiao=SE,ano_abertura=2015,procurou_empresa=S,respondida=S -> mes_abertura=1
+sexo=M,ano_abertura=2015,procurou_empresa=S,situacao=Finalizada avaliada -> mes_abertura=1
+sexo=M,ano_abertura=2015,respondida=S,situacao=Finalizada avaliada -> mes_abertura=1
+ano_abertura=2015,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada -> mes_abertura=1
+sexo=M,ano_abertura=2015,procurou_empresa=S,respondida=S -> mes_abertura=1
+ano_abertura=2015,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,nota_consumidor=1 -> mes_abertura=1
+ano_abertura=2015,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida,nota_consumidor=5 -> mes_abertura=1
+ano_abertura=2015,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,nota_consumidor=5 -> mes_abertura=1
+ano_abertura=2015,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida -> mes_abertura=1
+ano_abertura=2015,como_comprou_contratou=Telefone,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada -> mes_abertura=1
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2015,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada -> mes_abertura=1
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2015,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada -> mes_abertura=1
+sexo=F,ano_abertura=2015,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada -> mes_abertura=1
+regiao=SE,ano_abertura=2015,procurou_empresa=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> mes_abertura=1
+regiao=SE,ano_abertura=2015,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> mes_abertura=1
+sexo=M,ano_abertura=2015,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> mes_abertura=1
+ano_abertura=2015,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> mes_abertura=1
+regiao=SE,sexo=M,ano_abertura=2015,respondida=S,situacao=Finalizada avaliada -> mes_abertura=1
+regiao=SE,ano_abertura=2015,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada -> mes_abertura=1
+regiao=SE,sexo=M,ano_abertura=2015,procurou_empresa=S,respondida=S -> mes_abertura=1
+sexo=M,ano_abertura=2015,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada -> mes_abertura=1
+ano_abertura=2015,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida,nota_consumidor=5 -> mes_abertura=1
+regiao=SE,ano_abertura=2015,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> mes_abertura=1
+sexo=M,ano_abertura=2015,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> mes_abertura=1

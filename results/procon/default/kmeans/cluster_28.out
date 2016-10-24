@@ -1,0 +1,32 @@
+Sexo=M,Mês.Abertura=1,Procurou.Empresa=S,Respondida=S,Situação=Finalizada avaliada -> Ano.Abertura=2015
+Sexo=M,Ano.Abertura=2015,Procurou.Empresa=S,Respondida=S,Situação=Finalizada avaliada -> Mês.Abertura=1
+Procurou.Empresa=S,Respondida=S,Situação=Finalizada não avaliada -> Ano.Abertura=2014
+Procurou.Empresa=S,Respondida=S,Avaliação.Reclamação=Não Avaliada -> Ano.Abertura=2014
+Sexo=M,Procurou.Empresa=S,Situação=Finalizada não avaliada -> Ano.Abertura=2014
+Sexo=M,Procurou.Empresa=S,Avaliação.Reclamação=Não Avaliada -> Ano.Abertura=2014
+Procurou.Empresa=S,Respondida=S,Situação=Finalizada não avaliada -> Mês.Abertura=12
+Procurou.Empresa=S,Respondida=S,Avaliação.Reclamação=Não Avaliada -> Mês.Abertura=12
+Sexo=M,Procurou.Empresa=S,Respondida=S,Situação=Finalizada não avaliada -> Ano.Abertura=2014
+Sexo=M,Procurou.Empresa=S,Respondida=S,Avaliação.Reclamação=Não Avaliada -> Ano.Abertura=2014
+Procurou.Empresa=S,Situação=Finalizada avaliada,Avaliação.Reclamação=Resolvida -> Respondida=S
+Faixa.Etária=entre 31 a 40 anos,Mês.Abertura=1 -> Respondida=S
+Ano.Abertura=2014,Respondida=S -> Procurou.Empresa=S
+Faixa.Etária=entre 21 a 30 anos,Avaliação.Reclamação=Resolvida -> Respondida=S
+Ano.Abertura=2014 -> Procurou.Empresa=S
+Mês.Abertura=12,Respondida=S -> Procurou.Empresa=S
+Sexo=F,Ano.Abertura=2015,Respondida=S -> Procurou.Empresa=S
+Sexo=F,Ano.Abertura=2015,Mês.Abertura=1,Respondida=S -> Procurou.Empresa=S
+Sexo=M,Grupo.Problema=Cobrança / Contestação,Procurou.Empresa=S -> Respondida=S
+Sexo=M,Avaliação.Reclamação=Resolvida -> Respondida=S
+Sexo=M,Procurou.Empresa=S,Situação=Finalizada avaliada,Avaliação.Reclamação=Resolvida -> Respondida=S
+Como.Comprou.Contratou=Telefone,Situação=Finalizada avaliada -> Respondida=S
+Sexo=M,Como.Comprou.Contratou=Internet,Procurou.Empresa=S -> Respondida=S
+Sexo=M,Mês.Abertura=12 -> Procurou.Empresa=S
+Como.Comprou.Contratou=Internet,Situação=Finalizada avaliada -> Respondida=S
+Sexo=M,Mês.Abertura=12,Respondida=S -> Procurou.Empresa=S
+Mês.Abertura=1 -> Procurou.Empresa=S
+Ano.Abertura=2015 -> Procurou.Empresa=S
+UF=SP,Ano.Abertura=2014,Mês.Abertura=12,Procurou.Empresa=S -> Respondida=S
+Segmento.de.Mercado=Comércio Eletrônico,Procurou.Empresa=S -> Respondida=S
+Faixa.Etária=entre 21 a 30 anos,Ano.Abertura=2015 -> Procurou.Empresa=S
+Faixa.Etária=entre 21 a 30 anos,Ano.Abertura=2015,Mês.Abertura=1 -> Procurou.Empresa=S

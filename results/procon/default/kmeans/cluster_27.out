@@ -1,0 +1,16 @@
+Ano.Abertura=2015,Mês.Abertura=1,Nota.do.Consumidor=5 -> Avaliação.Reclamação=Resolvida
+Ano.Abertura=2014,Mês.Abertura=12,Procurou.Empresa=S,Situação=Finalizada não avaliada -> Avaliação.Reclamação=Não Avaliada
+Mês.Abertura=12,Procurou.Empresa=S,Respondida=S,Situação=Finalizada não avaliada -> Avaliação.Reclamação=Não Avaliada
+Ano.Abertura=2014,Procurou.Empresa=S,Respondida=S,Avaliação.Reclamação=Não Avaliada -> Situação=Finalizada não avaliada
+Sexo=M,Procurou.Empresa=S,Respondida=S,Avaliação.Reclamação=Não Avaliada -> Situação=Finalizada não avaliada
+Sexo=M,Mês.Abertura=12,Procurou.Empresa=S,Avaliação.Reclamação=Não Avaliada -> Ano.Abertura=2014
+Sexo=F,Mês.Abertura=12,Respondida=S,Situação=Finalizada não avaliada,Avaliação.Reclamação=Não Avaliada -> Ano.Abertura=2014
+Mês.Abertura=12,Segmento.de.Mercado=Operadoras de Telecomunicações (Telefonia, Internet, TV por assinatura),Procurou.Empresa=S,Situação=Finalizada não avaliada,Avaliação.Reclamação=Não Avaliada -> Ano.Abertura=2014
+Sexo=M,Mês.Abertura=12,Procurou.Empresa=S,Respondida=S,Situação=Finalizada não avaliada,Avaliação.Reclamação=Não Avaliada -> Ano.Abertura=2014
+Ano.Abertura=2014,Procurou.Empresa=S -> Mês.Abertura=12
+Ano.Abertura=2014,Respondida=S,Situação=Finalizada não avaliada,Avaliação.Reclamação=Não Avaliada -> Mês.Abertura=12
+Sexo=M,Mês.Abertura=1,Segmento.de.Mercado=Operadoras de Telecomunicações (Telefonia, Internet, TV por assinatura),Situação=Finalizada avaliada -> Respondida=S
+Ano.Abertura=2015,Mês.Abertura=1,Situação=Finalizada avaliada,Avaliação.Reclamação=Resolvida,Nota.do.Consumidor=5 -> Respondida=S
+Sexo=M,Segmento.de.Mercado=Operadoras de Telecomunicações (Telefonia, Internet, TV por assinatura),Procurou.Empresa=S,Situação=Finalizada avaliada,Avaliação.Reclamação=Resolvida -> Respondida=S
+Segmento.de.Mercado=Operadoras de Telecomunicações (Telefonia, Internet, TV por assinatura),Procurou.Empresa=S,Situação=Finalizada avaliada -> Respondida=S
+Ano.Abertura=2015,Respondida=S,Situação=Finalizada avaliada,Avaliação.Reclamação=Resolvida -> Procurou.Empresa=S

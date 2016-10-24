@@ -1,0 +1,164 @@
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2014,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2014,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2014,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2014,procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+regiao=SE,ano_abertura=2014,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+regiao=SE,ano_abertura=2014,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+sexo=F,ano_abertura=2014,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+sexo=F,ano_abertura=2014,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+regiao=SE,ano_abertura=2014,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+regiao=SE,ano_abertura=2014,procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+sexo=F,ano_abertura=2014,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+sexo=F,ano_abertura=2014,procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+mes_abertura=12,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+mes_abertura=12,como_comprou_contratou=Internet,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+faixa_etaria=entre 31 a 40 anos,mes_abertura=12,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+faixa_etaria=entre 21 a 30 anos,mes_abertura=12,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+sexo=F,mes_abertura=12,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+regiao=SE,mes_abertura=12,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+sexo=M,mes_abertura=12,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+mes_abertura=12,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+mes_abertura=12,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+mes_abertura=12,como_comprou_contratou=Internet,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+faixa_etaria=entre 31 a 40 anos,mes_abertura=12,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+faixa_etaria=entre 31 a 40 anos,mes_abertura=12,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+faixa_etaria=entre 21 a 30 anos,mes_abertura=12,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+faixa_etaria=entre 21 a 30 anos,mes_abertura=12,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+sexo=F,mes_abertura=12,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+sexo=F,mes_abertura=12,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+regiao=SE,mes_abertura=12,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+regiao=SE,mes_abertura=12,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+sexo=M,mes_abertura=12,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+sexo=M,mes_abertura=12,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+mes_abertura=12,procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+faixa_etaria=entre 31 a 40 anos,mes_abertura=12,procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+faixa_etaria=entre 21 a 30 anos,mes_abertura=12,procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+sexo=F,mes_abertura=12,procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+regiao=SE,mes_abertura=12,procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+sexo=M,mes_abertura=12,procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+ano_abertura=2014,como_comprou_contratou=Internet,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+ano_abertura=2014,como_comprou_contratou=Internet,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+ano_abertura=2014,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+ano_abertura=2014,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+ano_abertura=2014,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+ano_abertura=2014,procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+sexo=M,ano_abertura=2014,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+sexo=M,ano_abertura=2014,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+sexo=M,ano_abertura=2014,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+sexo=M,ano_abertura=2014,procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2014,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2014,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2014,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2014,procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> mes_abertura=12
+sexo=F,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+como_comprou_contratou=Internet,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+sexo=F,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+sexo=M,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+sexo=F,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+sexo=M,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+sexo=F,procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+como_comprou_contratou=Internet,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+sexo=M,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+sexo=M,procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+regiao=SE,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+regiao=SE,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+faixa_etaria=entre 21 a 30 anos,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+regiao=SE,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+faixa_etaria=entre 21 a 30 anos,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+regiao=SE,procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+faixa_etaria=entre 21 a 30 anos,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+faixa_etaria=entre 21 a 30 anos,procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> ano_abertura=2014
+sexo=F,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+sexo=F,ano_abertura=2014,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+sexo=F,ano_abertura=2014,mes_abertura=12,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2014,mes_abertura=12,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+sexo=F,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+sexo=F,ano_abertura=2014,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+sexo=F,ano_abertura=2014,mes_abertura=12,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2014,mes_abertura=12,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+faixa_etaria=entre 31 a 40 anos,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+faixa_etaria=entre 31 a 40 anos,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+regiao=SE,sexo=M,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+sexo=M,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+ano_abertura=2014,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+sexo=M,ano_abertura=2014,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+sexo=M,ano_abertura=2014,mes_abertura=12,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+ano_abertura=2014,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+sexo=M,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+ano_abertura=2014,mes_abertura=12,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+regiao=SE,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+ano_abertura=2014,mes_abertura=12,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+faixa_etaria=entre 21 a 30 anos,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+sexo=M,ano_abertura=2014,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+sexo=M,ano_abertura=2014,mes_abertura=12,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+regiao=SE,ano_abertura=2014,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+regiao=SE,ano_abertura=2014,mes_abertura=12,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2014,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+regiao=SE,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2014,mes_abertura=12,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+ano_abertura=2014,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+ano_abertura=2014,mes_abertura=12,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+faixa_etaria=entre 21 a 30 anos,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+ano_abertura=2014,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+ano_abertura=2014,mes_abertura=12,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+sexo=F,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+faixa_etaria=entre 31 a 40 anos,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+regiao=SE,ano_abertura=2014,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+regiao=SE,ano_abertura=2014,mes_abertura=12,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2014,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2014,mes_abertura=12,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+sexo=F,ano_abertura=2014,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+sexo=F,ano_abertura=2014,mes_abertura=12,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+como_comprou_contratou=Loja fÃ­sica,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2014,mes_abertura=12,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+sexo=F,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+sexo=F,ano_abertura=2014,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+sexo=F,ano_abertura=2014,mes_abertura=12,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+faixa_etaria=entre 31 a 40 anos,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2014,mes_abertura=12,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+regiao=SE,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+como_comprou_contratou=Internet,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+regiao=SE,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+regiao=SE,ano_abertura=2014,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+regiao=SE,ano_abertura=2014,mes_abertura=12,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+como_comprou_contratou=Internet,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+regiao=SE,ano_abertura=2014,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+regiao=SE,ano_abertura=2014,mes_abertura=12,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+ano_abertura=2014,como_comprou_contratou=Internet,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+ano_abertura=2014,mes_abertura=12,como_comprou_contratou=Internet,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> respondida=S
+sexo=M,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+sexo=M,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+sexo=M,ano_abertura=2014,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+faixa_etaria=entre 21 a 30 anos,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+sexo=M,ano_abertura=2014,mes_abertura=12,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+sexo=M,ano_abertura=2014,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+faixa_etaria=entre 21 a 30 anos,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+sexo=M,ano_abertura=2014,mes_abertura=12,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2014,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2014,mes_abertura=12,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2014,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2014,mes_abertura=12,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+como_comprou_contratou=Internet,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+como_comprou_contratou=Internet,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> procurou_empresa=S
+regiao=SE,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+regiao=SE,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+ano_abertura=2014,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+ano_abertura=2014,mes_abertura=12,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+ano_abertura=2014,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+ano_abertura=2014,mes_abertura=12,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+ano_abertura=2014,procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+ano_abertura=2014,mes_abertura=12,procurou_empresa=S,respondida=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+ano_abertura=2014,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M
+ano_abertura=2014,mes_abertura=12,procurou_empresa=S,situacao=Finalizada nÃ£o avaliada,avaliacao_reclamacao=NÃ£o Avaliada -> sexo=M

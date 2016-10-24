@@ -1,0 +1,24 @@
+Faixa.Etária=entre 31 a 40 anos,Ano.Abertura=2014,Respondida=S -> Mês.Abertura=12
+Sexo=F,Ano.Abertura=2014,Respondida=S,Avaliação.Reclamação=Não Avaliada -> Mês.Abertura=12
+Ano.Abertura=2014,Segmento.de.Mercado=Operadoras de Telecomunicações (Telefonia, Internet, TV por assinatura),Respondida=S,Situação=Finalizada não avaliada,Avaliação.Reclamação=Não Avaliada -> Procurou.Empresa=S
+Faixa.Etária=entre 31 a 40 anos,Respondida=S -> Procurou.Empresa=S
+Sexo=M,Mês.Abertura=12,Segmento.de.Mercado=Operadoras de Telecomunicações (Telefonia, Internet, TV por assinatura),Respondida=S -> Procurou.Empresa=S
+Segmento.de.Mercado=Operadoras de Telecomunicações (Telefonia, Internet, TV por assinatura),Respondida=S,Avaliação.Reclamação=Resolvida -> Procurou.Empresa=S
+Faixa.Etária=entre 41 a 50 anos -> Procurou.Empresa=S
+Faixa.Etária=entre 31 a 40 anos,Mês.Abertura=12 -> Procurou.Empresa=S
+Sexo=M,Segmento.de.Mercado=Operadoras de Telecomunicações (Telefonia, Internet, TV por assinatura),Respondida=S -> Procurou.Empresa=S
+Respondida=S -> Procurou.Empresa=S
+Ano.Abertura=2014,Respondida=S,Avaliação.Reclamação=Não Avaliada -> Procurou.Empresa=S
+Sexo=M,Ano.Abertura=2014,Situação=Finalizada não avaliada,Avaliação.Reclamação=Não Avaliada -> Respondida=S
+Procurou.Empresa=S,Situação=Finalizada não avaliada,Avaliação.Reclamação=Não Avaliada -> Respondida=S
+Sexo=M,Mês.Abertura=1,Situação=Finalizada avaliada,Avaliação.Reclamação=Resolvida -> Procurou.Empresa=S
+Sexo=M,Ano.Abertura=2015,Mês.Abertura=1,Situação=Finalizada avaliada,Avaliação.Reclamação=Resolvida -> Procurou.Empresa=S
+Sexo=M,Ano.Abertura=2015,Mês.Abertura=1,Respondida=S,Situação=Finalizada avaliada,Avaliação.Reclamação=Resolvida -> Procurou.Empresa=S
+Sexo=M,Ano.Abertura=2014,Mês.Abertura=12 -> Respondida=S
+Mês.Abertura=12,Situação=Finalizada não avaliada -> Respondida=S
+Sexo=M,Ano.Abertura=2015 -> Procurou.Empresa=S
+Como.Comprou.Contratou=Não comprei / contratei -> Procurou.Empresa=S
+Sexo=M,Mês.Abertura=1,Situação=Finalizada avaliada -> Procurou.Empresa=S
+Sexo=M,Ano.Abertura=2014,Mês.Abertura=12,Respondida=S,Situação=Finalizada não avaliada,Avaliação.Reclamação=Não Avaliada -> Procurou.Empresa=S
+Ano.Abertura=2014,Mês.Abertura=12,Como.Comprou.Contratou=Internet,Respondida=S -> Procurou.Empresa=S
+Nota.do.Consumidor=5 -> Procurou.Empresa=S

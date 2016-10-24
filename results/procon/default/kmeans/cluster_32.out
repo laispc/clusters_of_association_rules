@@ -1,0 +1,10 @@
+Situação=Finalizada avaliada,Nota.do.Consumidor=5 -> Avaliação.Reclamação=Resolvida
+Sexo=M,Ano.Abertura=2015 -> Mês.Abertura=1
+Mês.Abertura=1,Procurou.Empresa=S -> Ano.Abertura=2015
+Mês.Abertura=1,Respondida=S -> Ano.Abertura=2015
+Mês.Abertura=1,Avaliação.Reclamação=Resolvida,Nota.do.Consumidor=5 -> Ano.Abertura=2015
+Ano.Abertura=2014,Tempo.Resposta=10,Procurou.Empresa=S,Respondida=S -> Mês.Abertura=12
+Ano.Abertura=2014,Como.Comprou.Contratou=Telefone,Procurou.Empresa=S,Respondida=S -> Mês.Abertura=12
+Sexo=M,Ano.Abertura=2014,Procurou.Empresa=S,Avaliação.Reclamação=Não Avaliada -> Mês.Abertura=12
+Sexo=M,Ano.Abertura=2014,Procurou.Empresa=S,Respondida=S,Avaliação.Reclamação=Não Avaliada -> Mês.Abertura=12
+Ano.Abertura=2015,Mês.Abertura=1,Procurou.Empresa=S,Avaliação.Reclamação=Resolvida -> Respondida=S

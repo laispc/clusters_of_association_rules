@@ -1,0 +1,16 @@
+Grupo.Problema=Cobrança / Contestação,Procurou.Empresa=S,Respondida=S,Situação=Finalizada avaliada -> Avaliação.Reclamação=Resolvida
+Mês.Abertura=12,Como.Comprou.Contratou=Loja física,Respondida=S -> Ano.Abertura=2014
+Ano.Abertura=2014,Como.Comprou.Contratou=Telefone -> Procurou.Empresa=S
+Ano.Abertura=2014,Mês.Abertura=12,Como.Comprou.Contratou=Telefone -> Procurou.Empresa=S
+Mês.Abertura=12,Como.Comprou.Contratou=Telefone,Respondida=S -> Procurou.Empresa=S
+Tempo.Resposta=10 -> Respondida=S
+Tempo.Resposta=10,Segmento.de.Mercado=Operadoras de Telecomunicações (Telefonia, Internet, TV por assinatura) -> Respondida=S
+Tempo.Resposta=10,Situação=Finalizada avaliada -> Respondida=S
+Faixa.Etária=entre 21 a 30 anos,Ano.Abertura=2015,Mês.Abertura=1 -> Respondida=S
+Situação=Finalizada avaliada -> Respondida=S
+Faixa.Etária=entre 21 a 30 anos,Ano.Abertura=2015,Mês.Abertura=1,Situação=Finalizada avaliada -> Respondida=S
+UF=SP -> Respondida=S
+Sexo=F,Ano.Abertura=2014,Procurou.Empresa=S,Situação=Finalizada não avaliada,Avaliação.Reclamação=Não Avaliada -> Respondida=S
+Sexo=F,Ano.Abertura=2014,Mês.Abertura=12,Procurou.Empresa=S,Situação=Finalizada não avaliada -> Respondida=S
+Ano.Abertura=2015,Respondida=S,Situação=Finalizada avaliada -> Procurou.Empresa=S
+Segmento.de.Mercado=Comércio Eletrônico,Como.Comprou.Contratou=Internet,Respondida=S -> Procurou.Empresa=S

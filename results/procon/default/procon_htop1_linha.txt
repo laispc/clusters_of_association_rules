@@ -1,0 +1,17 @@
+Segmento.de.Mercado=Comércio Eletrônico -> Como.Comprou.Contratou=Internet
+Segmento.de.Mercado=Comércio Eletrônico,Procurou.Empresa=S,Respondida=S -> Como.Comprou.Contratou=Internet
+Segmento.de.Mercado=Comércio Eletrônico,Procurou.Empresa=S -> Como.Comprou.Contratou=Internet
+Mês.Abertura=1,Nota.do.Consumidor=5 -> Avaliação.Reclamação=Resolvida
+Ano.Abertura=2015,Nota.do.Consumidor=5 -> Avaliação.Reclamação=Resolvida
+Ano.Abertura=2015,Mês.Abertura=1,Nota.do.Consumidor=5 -> Avaliação.Reclamação=Resolvida
+Mês.Abertura=1,Situação=Finalizada avaliada,Nota.do.Consumidor=5 -> Avaliação.Reclamação=Resolvida
+Mês.Abertura=1,Respondida=S,Nota.do.Consumidor=5 -> Avaliação.Reclamação=Resolvida
+Ano.Abertura=2015,Situação=Finalizada avaliada,Nota.do.Consumidor=5 -> Avaliação.Reclamação=Resolvida
+Ano.Abertura=2015,Respondida=S,Nota.do.Consumidor=5 -> Avaliação.Reclamação=Resolvida
+Ano.Abertura=2015,Mês.Abertura=1,Situação=Finalizada avaliada,Nota.do.Consumidor=5 -> Avaliação.Reclamação=Resolvida
+Ano.Abertura=2015,Mês.Abertura=1,Respondida=S,Nota.do.Consumidor=5 -> Avaliação.Reclamação=Resolvida
+Mês.Abertura=1,Respondida=S,Situação=Finalizada avaliada,Nota.do.Consumidor=5 -> Avaliação.Reclamação=Resolvida
+Ano.Abertura=2015,Respondida=S,Situação=Finalizada avaliada,Nota.do.Consumidor=5 -> Avaliação.Reclamação=Resolvida
+Ano.Abertura=2015,Mês.Abertura=1,Respondida=S,Situação=Finalizada avaliada,Nota.do.Consumidor=5 -> Avaliação.Reclamação=Resolvida
+Procurou.Empresa=S,Nota.do.Consumidor=5 -> Avaliação.Reclamação=Resolvida
+Procurou.Empresa=S,Situação=Finalizada avaliada,Nota.do.Consumidor=5 -> Avaliação.Reclamação=Resolvida

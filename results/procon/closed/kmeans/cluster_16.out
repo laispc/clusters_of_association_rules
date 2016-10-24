@@ -1,0 +1,74 @@
+sexo=M,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida -> nota_consumidor=1
+sexo=M,procurou_empresa=S,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida -> nota_consumidor=1
+sexo=M,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida -> nota_consumidor=1
+sexo=M,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida -> nota_consumidor=1
+sexo=M,respondida=S,situacao=Finalizada avaliada,nota_consumidor=1 -> avaliacao_reclamacao=NÃ£o Resolvida
+sexo=M,situacao=Finalizada avaliada,nota_consumidor=1 -> avaliacao_reclamacao=NÃ£o Resolvida
+sexo=M,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,nota_consumidor=1 -> avaliacao_reclamacao=NÃ£o Resolvida
+sexo=M,procurou_empresa=S,situacao=Finalizada avaliada,nota_consumidor=1 -> avaliacao_reclamacao=NÃ£o Resolvida
+como_comprou_contratou=Internet,respondida=S,situacao=Finalizada avaliada -> sexo=M
+como_comprou_contratou=Internet,situacao=Finalizada avaliada -> sexo=M
+como_comprou_contratou=Internet,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada -> sexo=M
+como_comprou_contratou=Internet,procurou_empresa=S,situacao=Finalizada avaliada -> sexo=M
+respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida,nota_consumidor=1 -> sexo=M
+situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida,nota_consumidor=1 -> sexo=M
+procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida,nota_consumidor=1 -> sexo=M
+procurou_empresa=S,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida,nota_consumidor=1 -> sexo=M
+respondida=S,situacao=Finalizada avaliada,nota_consumidor=1 -> sexo=M
+situacao=Finalizada avaliada,nota_consumidor=1 -> sexo=M
+faixa_etaria=entre 21 a 30 anos,respondida=S,situacao=Finalizada avaliada -> sexo=M
+procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,nota_consumidor=1 -> sexo=M
+faixa_etaria=entre 21 a 30 anos,situacao=Finalizada avaliada -> sexo=M
+procurou_empresa=S,situacao=Finalizada avaliada,nota_consumidor=1 -> sexo=M
+faixa_etaria=entre 21 a 30 anos,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada -> sexo=M
+faixa_etaria=entre 21 a 30 anos,procurou_empresa=S,situacao=Finalizada avaliada -> sexo=M
+respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida -> sexo=M
+situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida -> sexo=M
+procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida -> sexo=M
+procurou_empresa=S,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida -> sexo=M
+ano_abertura=2014,situacao=Finalizada avaliada -> sexo=M
+faixa_etaria=entre 31 a 40 anos,procurou_empresa=S,situacao=Finalizada avaliada -> sexo=M
+faixa_etaria=entre 31 a 40 anos,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada -> sexo=M
+ano_abertura=2014,mes_abertura=12,situacao=Finalizada avaliada -> sexo=M
+ano_abertura=2014,respondida=S,situacao=Finalizada avaliada -> sexo=M
+ano_abertura=2014,mes_abertura=12,respondida=S,situacao=Finalizada avaliada -> sexo=M
+faixa_etaria=entre 31 a 40 anos,situacao=Finalizada avaliada -> sexo=M
+ano_abertura=2014,procurou_empresa=S,situacao=Finalizada avaliada -> sexo=M
+ano_abertura=2014,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada -> sexo=M
+faixa_etaria=entre 31 a 40 anos,respondida=S,situacao=Finalizada avaliada -> sexo=M
+ano_abertura=2014,mes_abertura=12,procurou_empresa=S,situacao=Finalizada avaliada -> sexo=M
+ano_abertura=2014,mes_abertura=12,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada -> sexo=M
+respondida=S,situacao=Finalizada avaliada -> sexo=M
+situacao=Finalizada avaliada -> sexo=M
+procurou_empresa=S,respondida=S,situacao=Finalizada avaliada -> sexo=M
+procurou_empresa=S,situacao=Finalizada avaliada -> sexo=M
+procurou_empresa=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida,nota_consumidor=5 -> sexo=M
+procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida,nota_consumidor=5 -> sexo=M
+situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida,nota_consumidor=5 -> sexo=M
+respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida,nota_consumidor=5 -> sexo=M
+ano_abertura=2015,mes_abertura=1,respondida=S,situacao=Finalizada avaliada -> sexo=M
+procurou_empresa=S,situacao=Finalizada avaliada,nota_consumidor=5 -> sexo=M
+ano_abertura=2015,mes_abertura=1,situacao=Finalizada avaliada -> sexo=M
+procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,nota_consumidor=5 -> sexo=M
+situacao=Finalizada avaliada,nota_consumidor=5 -> sexo=M
+respondida=S,situacao=Finalizada avaliada,nota_consumidor=5 -> sexo=M
+regiao=SE,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada -> sexo=M
+regiao=SE,procurou_empresa=S,situacao=Finalizada avaliada -> sexo=M
+ano_abertura=2015,mes_abertura=1,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada -> sexo=M
+ano_abertura=2015,mes_abertura=1,procurou_empresa=S,situacao=Finalizada avaliada -> sexo=M
+regiao=SE,respondida=S,situacao=Finalizada avaliada -> sexo=M
+regiao=SE,situacao=Finalizada avaliada -> sexo=M
+como_comprou_contratou=Telefone,situacao=Finalizada avaliada -> sexo=M
+como_comprou_contratou=Telefone,respondida=S,situacao=Finalizada avaliada -> sexo=M
+situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> sexo=M
+respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> sexo=M
+procurou_empresa=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> sexo=M
+regiao=SE,ano_abertura=2015,mes_abertura=1,respondida=S,situacao=Finalizada avaliada -> sexo=M
+procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> sexo=M
+regiao=SE,procurou_empresa=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> sexo=M
+regiao=SE,ano_abertura=2015,mes_abertura=1,situacao=Finalizada avaliada -> sexo=M
+regiao=SE,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> sexo=M
+ano_abertura=2015,mes_abertura=1,procurou_empresa=S,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> sexo=M
+ano_abertura=2015,mes_abertura=1,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> sexo=M
+regiao=SE,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> sexo=M
+regiao=SE,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> sexo=M

@@ -1,0 +1,32 @@
+Ano.Abertura=2015,Segmento.de.Mercado=Operadoras de Telecomunicações (Telefonia, Internet, TV por assinatura),Respondida=S,Situação=Finalizada avaliada -> Avaliação.Reclamação=Resolvida
+Grupo.Problema=Cobrança / Contestação,Procurou.Empresa=S,Respondida=S,Situação=Finalizada avaliada -> Avaliação.Reclamação=Resolvida
+Mês.Abertura=12,Como.Comprou.Contratou=Loja física,Respondida=S -> Ano.Abertura=2014
+Procurou.Empresa=S,Situação=Finalizada não avaliada,Avaliação.Reclamação=Não Avaliada -> Mês.Abertura=12
+Sexo=M,Mês.Abertura=1,Procurou.Empresa=S -> Situação=Finalizada avaliada
+Sexo=M,Ano.Abertura=2015,Mês.Abertura=1,Procurou.Empresa=S -> Situação=Finalizada avaliada
+Sexo=M,Ano.Abertura=2015,Procurou.Empresa=S,Respondida=S -> Situação=Finalizada avaliada
+Ano.Abertura=2014,Como.Comprou.Contratou=Telefone -> Procurou.Empresa=S
+Ano.Abertura=2014,Mês.Abertura=12,Como.Comprou.Contratou=Telefone -> Procurou.Empresa=S
+Mês.Abertura=12,Como.Comprou.Contratou=Telefone,Respondida=S -> Procurou.Empresa=S
+Tempo.Resposta=10 -> Respondida=S
+Tempo.Resposta=10,Segmento.de.Mercado=Operadoras de Telecomunicações (Telefonia, Internet, TV por assinatura) -> Respondida=S
+Tempo.Resposta=10,Situação=Finalizada avaliada -> Respondida=S
+Procurou.Empresa=S,Avaliação.Reclamação=Resolvida -> Respondida=S
+Faixa.Etária=entre 31 a 40 anos,Ano.Abertura=2015,Mês.Abertura=1 -> Respondida=S
+Sexo=M,Grupo.Problema=Cobrança / Contestação -> Respondida=S
+Sexo=M,Avaliação.Reclamação=Resolvida -> Procurou.Empresa=S
+Sexo=M,Como.Comprou.Contratou=Loja física -> Respondida=S
+Ano.Abertura=2015,Mês.Abertura=1,Grupo.Problema=Cobrança / Contestação,Situação=Finalizada avaliada -> Respondida=S
+Faixa.Etária=entre 21 a 30 anos,Ano.Abertura=2015,Mês.Abertura=1 -> Respondida=S
+Situação=Finalizada avaliada -> Respondida=S
+Faixa.Etária=entre 21 a 30 anos,Ano.Abertura=2015,Mês.Abertura=1,Situação=Finalizada avaliada -> Respondida=S
+UF=SP -> Respondida=S
+Sexo=F,Ano.Abertura=2014,Procurou.Empresa=S,Situação=Finalizada não avaliada,Avaliação.Reclamação=Não Avaliada -> Respondida=S
+Sexo=F,Ano.Abertura=2014,Mês.Abertura=12,Procurou.Empresa=S,Situação=Finalizada não avaliada -> Respondida=S
+Sexo=M,Ano.Abertura=2014 -> Procurou.Empresa=S
+Sexo=M,Ano.Abertura=2014,Respondida=S -> Procurou.Empresa=S
+Situação=Finalizada avaliada,Avaliação.Reclamação=Não Resolvida -> Respondida=S
+Faixa.Etária=entre 31 a 40 anos,Ano.Abertura=2014 -> Respondida=S
+Ano.Abertura=2015,Respondida=S,Situação=Finalizada avaliada -> Procurou.Empresa=S
+Segmento.de.Mercado=Comércio Eletrônico,Como.Comprou.Contratou=Internet,Respondida=S -> Procurou.Empresa=S
+Faixa.Etária=entre 21 a 30 anos,Mês.Abertura=1 -> Procurou.Empresa=S

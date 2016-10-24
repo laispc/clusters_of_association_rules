@@ -1,0 +1,41 @@
+ano_abertura=2015,mes_abertura=1,como_comprou_contratou=Telefone -> procurou_empresa=S
+ano_abertura=2015,mes_abertura=1,como_comprou_contratou=Telefone,respondida=S -> procurou_empresa=S
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2015,mes_abertura=1,situacao=Finalizada avaliada -> procurou_empresa=S
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2015,mes_abertura=1,respondida=S,situacao=Finalizada avaliada -> procurou_empresa=S
+ano_abertura=2015,mes_abertura=1,como_comprou_contratou=Telefone,situacao=Finalizada avaliada -> procurou_empresa=S
+ano_abertura=2015,mes_abertura=1,como_comprou_contratou=Telefone,respondida=S,situacao=Finalizada avaliada -> procurou_empresa=S
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2015,mes_abertura=1 -> procurou_empresa=S
+faixa_etaria=entre 31 a 40 anos,ano_abertura=2015,mes_abertura=1,respondida=S -> procurou_empresa=S
+sexo=F,ano_abertura=2015,mes_abertura=1 -> procurou_empresa=S
+sexo=F,ano_abertura=2015,mes_abertura=1,respondida=S -> procurou_empresa=S
+sexo=F,ano_abertura=2015,mes_abertura=1,situacao=Finalizada avaliada -> procurou_empresa=S
+sexo=F,ano_abertura=2015,mes_abertura=1,respondida=S,situacao=Finalizada avaliada -> procurou_empresa=S
+sexo=M,ano_abertura=2015,mes_abertura=1,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> procurou_empresa=S
+ano_abertura=2015,mes_abertura=1,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> procurou_empresa=S
+ano_abertura=2015,mes_abertura=1,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> procurou_empresa=S
+ano_abertura=2015,mes_abertura=1 -> procurou_empresa=S
+ano_abertura=2015,mes_abertura=1,respondida=S -> procurou_empresa=S
+ano_abertura=2015,mes_abertura=1,situacao=Finalizada avaliada -> procurou_empresa=S
+ano_abertura=2015,mes_abertura=1,respondida=S,situacao=Finalizada avaliada -> procurou_empresa=S
+ano_abertura=2015,mes_abertura=1,situacao=Finalizada avaliada,nota_consumidor=1 -> procurou_empresa=S
+ano_abertura=2015,mes_abertura=1,respondida=S,situacao=Finalizada avaliada,nota_consumidor=1 -> procurou_empresa=S
+sexo=M,ano_abertura=2015,mes_abertura=1 -> procurou_empresa=S
+sexo=M,ano_abertura=2015,mes_abertura=1,respondida=S -> procurou_empresa=S
+sexo=M,ano_abertura=2015,mes_abertura=1,situacao=Finalizada avaliada -> procurou_empresa=S
+sexo=M,ano_abertura=2015,mes_abertura=1,respondida=S,situacao=Finalizada avaliada -> procurou_empresa=S
+regiao=SE,ano_abertura=2015,mes_abertura=1,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> procurou_empresa=S
+ano_abertura=2015,mes_abertura=1,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida -> procurou_empresa=S
+regiao=SE,ano_abertura=2015,mes_abertura=1,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida -> procurou_empresa=S
+ano_abertura=2015,mes_abertura=1,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=NÃ£o Resolvida -> procurou_empresa=S
+regiao=SE,sexo=M,ano_abertura=2015,mes_abertura=1 -> procurou_empresa=S
+regiao=SE,sexo=M,ano_abertura=2015,mes_abertura=1,respondida=S -> procurou_empresa=S
+regiao=SE,ano_abertura=2015,mes_abertura=1 -> procurou_empresa=S
+regiao=SE,ano_abertura=2015,mes_abertura=1,respondida=S -> procurou_empresa=S
+regiao=SE,ano_abertura=2015,mes_abertura=1,situacao=Finalizada avaliada -> procurou_empresa=S
+regiao=SE,ano_abertura=2015,mes_abertura=1,respondida=S,situacao=Finalizada avaliada -> procurou_empresa=S
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2015,mes_abertura=1 -> procurou_empresa=S
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2015,mes_abertura=1,respondida=S -> procurou_empresa=S
+ano_abertura=2015,mes_abertura=1,respondida=S,situacao=Finalizada avaliada,nota_consumidor=5 -> procurou_empresa=S
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2015,mes_abertura=1,situacao=Finalizada avaliada -> procurou_empresa=S
+faixa_etaria=entre 21 a 30 anos,ano_abertura=2015,mes_abertura=1,respondida=S,situacao=Finalizada avaliada -> procurou_empresa=S
+ano_abertura=2015,mes_abertura=1,respondida=S,situacao=Finalizada avaliada,avaliacao_reclamacao=Resolvida,nota_consumidor=5 -> procurou_empresa=S

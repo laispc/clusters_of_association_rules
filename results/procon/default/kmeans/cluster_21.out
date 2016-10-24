@@ -1,0 +1,16 @@
+Ano.Abertura=2015,Mês.Abertura=1,Segmento.de.Mercado=Operadoras de Telecomunicações (Telefonia, Internet, TV por assinatura),Procurou.Empresa=S,Situação=Finalizada avaliada -> Avaliação.Reclamação=Resolvida
+Sexo=M,Procurou.Empresa=S,Respondida=S,Avaliação.Reclamação=Não Avaliada -> Mês.Abertura=12
+Mês.Abertura=1,Segmento.de.Mercado=Operadoras de Telecomunicações (Telefonia, Internet, TV por assinatura),Respondida=S -> Situação=Finalizada avaliada
+Ano.Abertura=2015,Mês.Abertura=1,Grupo.Problema=Cobrança / Contestação -> Situação=Finalizada avaliada
+Ano.Abertura=2015,Mês.Abertura=1,Grupo.Problema=Cobrança / Contestação,Respondida=S -> Situação=Finalizada avaliada
+Ano.Abertura=2015,Mês.Abertura=1 -> Respondida=S
+Ano.Abertura=2014,Como.Comprou.Contratou=Telefone -> Respondida=S
+Ano.Abertura=2014,Grupo.Problema=Cobrança / Contestação -> Respondida=S
+Ano.Abertura=2015,Procurou.Empresa=S,Situação=Finalizada avaliada -> Respondida=S
+Grupo.Problema=Cobrança / Contestação -> Respondida=S
+Ano.Abertura=2015,Grupo.Problema=Cobrança / Contestação -> Respondida=S
+Ano.Abertura=2015,Respondida=S -> Procurou.Empresa=S
+Procurou.Empresa=S,Avaliação.Reclamação=Não Resolvida -> Respondida=S
+UF=SP,Ano.Abertura=2014,Mês.Abertura=12 -> Respondida=S
+Respondida=S,Avaliação.Reclamação=Não Resolvida -> Procurou.Empresa=S
+Grupo.Problema=Vício de Qualidade,Respondida=S -> Procurou.Empresa=S

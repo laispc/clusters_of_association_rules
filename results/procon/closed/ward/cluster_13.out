@@ -1,0 +1,131 @@
+nota_consumidor=1 -> situacao=Finalizada avaliada
+nota_consumidor=5 -> situacao=Finalizada avaliada
+avaliacao_reclamacao=NÃ£o Resolvida -> situacao=Finalizada avaliada
+avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+avaliacao_reclamacao=NÃ£o Resolvida,nota_consumidor=1 -> situacao=Finalizada avaliada
+sexo=M,nota_consumidor=1 -> situacao=Finalizada avaliada
+procurou_empresa=S,nota_consumidor=1 -> situacao=Finalizada avaliada
+respondida=S,nota_consumidor=1 -> situacao=Finalizada avaliada
+avaliacao_reclamacao=Resolvida,nota_consumidor=5 -> situacao=Finalizada avaliada
+sexo=M,nota_consumidor=5 -> situacao=Finalizada avaliada
+procurou_empresa=S,nota_consumidor=5 -> situacao=Finalizada avaliada
+respondida=S,nota_consumidor=5 -> situacao=Finalizada avaliada
+regiao=SE,avaliacao_reclamacao=NÃ£o Resolvida -> situacao=Finalizada avaliada
+sexo=M,avaliacao_reclamacao=NÃ£o Resolvida -> situacao=Finalizada avaliada
+procurou_empresa=S,avaliacao_reclamacao=NÃ£o Resolvida -> situacao=Finalizada avaliada
+respondida=S,avaliacao_reclamacao=NÃ£o Resolvida -> situacao=Finalizada avaliada
+faixa_etaria=entre 31 a 40 anos,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+faixa_etaria=entre 21 a 30 anos,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+regiao=SE,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+sexo=M,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+procurou_empresa=S,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+respondida=S,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+sexo=M,avaliacao_reclamacao=NÃ£o Resolvida,nota_consumidor=1 -> situacao=Finalizada avaliada
+procurou_empresa=S,avaliacao_reclamacao=NÃ£o Resolvida,nota_consumidor=1 -> situacao=Finalizada avaliada
+respondida=S,avaliacao_reclamacao=NÃ£o Resolvida,nota_consumidor=1 -> situacao=Finalizada avaliada
+sexo=M,procurou_empresa=S,nota_consumidor=1 -> situacao=Finalizada avaliada
+sexo=M,respondida=S,nota_consumidor=1 -> situacao=Finalizada avaliada
+procurou_empresa=S,respondida=S,nota_consumidor=1 -> situacao=Finalizada avaliada
+sexo=M,avaliacao_reclamacao=Resolvida,nota_consumidor=5 -> situacao=Finalizada avaliada
+procurou_empresa=S,avaliacao_reclamacao=Resolvida,nota_consumidor=5 -> situacao=Finalizada avaliada
+respondida=S,avaliacao_reclamacao=Resolvida,nota_consumidor=5 -> situacao=Finalizada avaliada
+sexo=M,procurou_empresa=S,nota_consumidor=5 -> situacao=Finalizada avaliada
+sexo=M,respondida=S,nota_consumidor=5 -> situacao=Finalizada avaliada
+procurou_empresa=S,respondida=S,nota_consumidor=5 -> situacao=Finalizada avaliada
+regiao=SE,respondida=S,avaliacao_reclamacao=NÃ£o Resolvida -> situacao=Finalizada avaliada
+sexo=M,procurou_empresa=S,avaliacao_reclamacao=NÃ£o Resolvida -> situacao=Finalizada avaliada
+sexo=M,respondida=S,avaliacao_reclamacao=NÃ£o Resolvida -> situacao=Finalizada avaliada
+procurou_empresa=S,respondida=S,avaliacao_reclamacao=NÃ£o Resolvida -> situacao=Finalizada avaliada
+como_comprou_contratou=Telefone,respondida=S,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+faixa_etaria=entre 31 a 40 anos,procurou_empresa=S,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+faixa_etaria=entre 31 a 40 anos,respondida=S,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+faixa_etaria=entre 21 a 30 anos,procurou_empresa=S,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+faixa_etaria=entre 21 a 30 anos,respondida=S,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+regiao=SE,sexo=M,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+regiao=SE,procurou_empresa=S,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+regiao=SE,respondida=S,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+sexo=M,procurou_empresa=S,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+sexo=M,respondida=S,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+procurou_empresa=S,respondida=S,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+sexo=M,procurou_empresa=S,avaliacao_reclamacao=NÃ£o Resolvida,nota_consumidor=1 -> situacao=Finalizada avaliada
+sexo=M,respondida=S,avaliacao_reclamacao=NÃ£o Resolvida,nota_consumidor=1 -> situacao=Finalizada avaliada
+procurou_empresa=S,respondida=S,avaliacao_reclamacao=NÃ£o Resolvida,nota_consumidor=1 -> situacao=Finalizada avaliada
+sexo=M,procurou_empresa=S,respondida=S,nota_consumidor=1 -> situacao=Finalizada avaliada
+sexo=M,procurou_empresa=S,avaliacao_reclamacao=Resolvida,nota_consumidor=5 -> situacao=Finalizada avaliada
+sexo=M,respondida=S,avaliacao_reclamacao=Resolvida,nota_consumidor=5 -> situacao=Finalizada avaliada
+procurou_empresa=S,respondida=S,avaliacao_reclamacao=Resolvida,nota_consumidor=5 -> situacao=Finalizada avaliada
+sexo=M,procurou_empresa=S,respondida=S,nota_consumidor=5 -> situacao=Finalizada avaliada
+sexo=M,procurou_empresa=S,respondida=S,avaliacao_reclamacao=NÃ£o Resolvida -> situacao=Finalizada avaliada
+como_comprou_contratou=Telefone,procurou_empresa=S,respondida=S,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+faixa_etaria=entre 31 a 40 anos,procurou_empresa=S,respondida=S,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+faixa_etaria=entre 21 a 30 anos,procurou_empresa=S,respondida=S,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+regiao=SE,sexo=M,procurou_empresa=S,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+regiao=SE,sexo=M,respondida=S,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+regiao=SE,procurou_empresa=S,respondida=S,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+sexo=M,procurou_empresa=S,respondida=S,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+sexo=M,procurou_empresa=S,respondida=S,avaliacao_reclamacao=NÃ£o Resolvida,nota_consumidor=1 -> situacao=Finalizada avaliada
+sexo=M,procurou_empresa=S,respondida=S,avaliacao_reclamacao=Resolvida,nota_consumidor=5 -> situacao=Finalizada avaliada
+regiao=SE,sexo=M,procurou_empresa=S,respondida=S,avaliacao_reclamacao=Resolvida -> situacao=Finalizada avaliada
+sexo=M,como_comprou_contratou=Telefone -> situacao=Finalizada avaliada
+sexo=M,como_comprou_contratou=Telefone,respondida=S -> situacao=Finalizada avaliada
+sexo=M,faixa_etaria=entre 31 a 40 anos,procurou_empresa=S,respondida=S -> situacao=Finalizada avaliada
+sexo=M,faixa_etaria=entre 31 a 40 anos,procurou_empresa=S -> situacao=Finalizada avaliada
+sexo=M,faixa_etaria=entre 31 a 40 anos,respondida=S -> situacao=Finalizada avaliada
+sexo=M,faixa_etaria=entre 31 a 40 anos -> situacao=Finalizada avaliada
+sexo=M,faixa_etaria=entre 21 a 30 anos,respondida=S -> situacao=Finalizada avaliada
+sexo=M,faixa_etaria=entre 21 a 30 anos -> situacao=Finalizada avaliada
+sexo=M,faixa_etaria=entre 21 a 30 anos,procurou_empresa=S,respondida=S -> situacao=Finalizada avaliada
+sexo=M,faixa_etaria=entre 21 a 30 anos,procurou_empresa=S -> situacao=Finalizada avaliada
+como_comprou_contratou=Telefone,procurou_empresa=S,respondida=S -> situacao=Finalizada avaliada
+como_comprou_contratou=Telefone,procurou_empresa=S -> situacao=Finalizada avaliada
+como_comprou_contratou=Telefone,respondida=S -> situacao=Finalizada avaliada
+como_comprou_contratou=Telefone -> situacao=Finalizada avaliada
+regiao=SE,sexo=M,procurou_empresa=S -> situacao=Finalizada avaliada
+regiao=SE,sexo=M,procurou_empresa=S,respondida=S -> situacao=Finalizada avaliada
+regiao=SE,sexo=M -> situacao=Finalizada avaliada
+regiao=SE,sexo=M,respondida=S -> situacao=Finalizada avaliada
+como_comprou_contratou=NÃ£o comprei / contratei -> situacao=Finalizada avaliada
+como_comprou_contratou=NÃ£o comprei / contratei,respondida=S -> situacao=Finalizada avaliada
+sexo=M,procurou_empresa=S,respondida=S -> situacao=Finalizada avaliada
+sexo=M,procurou_empresa=S -> situacao=Finalizada avaliada
+sexo=M,respondida=S -> situacao=Finalizada avaliada
+sexo=M -> situacao=Finalizada avaliada
+faixa_etaria=entre 31 a 40 anos,procurou_empresa=S,respondida=S -> situacao=Finalizada avaliada
+faixa_etaria=entre 31 a 40 anos,procurou_empresa=S -> situacao=Finalizada avaliada
+faixa_etaria=entre 31 a 40 anos,respondida=S -> situacao=Finalizada avaliada
+faixa_etaria=entre 31 a 40 anos -> situacao=Finalizada avaliada
+regiao=SE,respondida=S -> situacao=Finalizada avaliada
+regiao=SE -> situacao=Finalizada avaliada
+regiao=SE,procurou_empresa=S -> situacao=Finalizada avaliada
+regiao=SE,procurou_empresa=S,respondida=S -> situacao=Finalizada avaliada
+faixa_etaria=entre 21 a 30 anos,respondida=S -> situacao=Finalizada avaliada
+faixa_etaria=entre 21 a 30 anos -> situacao=Finalizada avaliada
+regiao=SE,uf=SP,procurou_empresa=S -> situacao=Finalizada avaliada
+regiao=SE,uf=SP,procurou_empresa=S,respondida=S -> situacao=Finalizada avaliada
+faixa_etaria=entre 21 a 30 anos,procurou_empresa=S,respondida=S -> situacao=Finalizada avaliada
+faixa_etaria=entre 21 a 30 anos,procurou_empresa=S -> situacao=Finalizada avaliada
+regiao=SE,uf=SP,respondida=S -> situacao=Finalizada avaliada
+regiao=SE,uf=SP -> situacao=Finalizada avaliada
+sexo=M,como_comprou_contratou=Internet,procurou_empresa=S,respondida=S -> situacao=Finalizada avaliada
+sexo=M,como_comprou_contratou=Internet,respondida=S -> situacao=Finalizada avaliada
+sexo=M,como_comprou_contratou=Internet,procurou_empresa=S -> situacao=Finalizada avaliada
+sexo=M,como_comprou_contratou=Internet -> situacao=Finalizada avaliada
+respondida=S -> situacao=Finalizada avaliada
+procurou_empresa=S,respondida=S -> situacao=Finalizada avaliada
+procurou_empresa=S -> situacao=Finalizada avaliada
+tempo_resposta=10,respondida=S -> situacao=Finalizada avaliada
+tempo_resposta=10,procurou_empresa=S,respondida=S -> situacao=Finalizada avaliada
+como_comprou_contratou=Internet,procurou_empresa=S,respondida=S -> situacao=Finalizada avaliada
+como_comprou_contratou=Internet,procurou_empresa=S -> situacao=Finalizada avaliada
+como_comprou_contratou=Internet,respondida=S -> situacao=Finalizada avaliada
+como_comprou_contratou=Internet -> situacao=Finalizada avaliada
+regiao=NE,respondida=S -> situacao=Finalizada avaliada
+regiao=S ,respondida=S -> situacao=Finalizada avaliada
+regiao=NE -> situacao=Finalizada avaliada
+regiao=S ,procurou_empresa=S,respondida=S -> situacao=Finalizada avaliada
+regiao=S  -> situacao=Finalizada avaliada
+regiao=S ,procurou_empresa=S -> situacao=Finalizada avaliada
+como_comprou_contratou=Loja fÃ­sica,respondida=S -> situacao=Finalizada avaliada
+como_comprou_contratou=Loja fÃ­sica,procurou_empresa=S,respondida=S -> situacao=Finalizada avaliada
+como_comprou_contratou=Loja fÃ­sica -> situacao=Finalizada avaliada
+como_comprou_contratou=Loja fÃ­sica,procurou_empresa=S -> situacao=Finalizada avaliada

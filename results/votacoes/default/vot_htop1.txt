@@ -1,0 +1,19 @@
+orientacao_gov=obstrução -> cunha=obstrução
+cunha=obstrução -> orientacao_gov=obstrução
+partido=psdb,orientacao_partido=obstrução -> voto=obstrução
+orientacao_partido=obstrução,orientacao_gov=não -> voto=obstrução
+orientacao_partido=obstrução,orientacao_gov=não,cunha=não -> voto=obstrução
+voto=obstrução,orientacao_gov=não,cunha=não -> orientacao_partido=obstrução
+voto=obstrução,orientacao_gov=não -> orientacao_partido=obstrução
+orientacao_partido=obstrução,cunha=não -> voto=obstrução
+partido=pt,voto=obstrução -> orientacao_partido=obstrução
+voto=obstrução,cunha=não -> orientacao_partido=obstrução
+partido=pt,orientacao_partido=obstrução -> voto=obstrução
+partido=psdb,voto=obstrução -> orientacao_partido=obstrução
+voto=obstrução -> orientacao_partido=obstrução
+orientacao_partido=obstrução -> voto=obstrução
+voto=obstrução,cunha=sim -> orientacao_partido=obstrução
+orientacao_partido=obstrução,cunha=sim -> voto=obstrução
+partido=pmdb,cunha=liberado -> orientacao_partido=liberado
+descr=URGÊNCIA PARA APRECIAÇÃO DO PDC Nº 1.408/2013_REQ_2027_2015 -> cunha=liberado
+orientacao_gov=não,descr=URGÊNCIA PARA APRECIAÇÃO DO PDC Nº 1.408/2013_REQ_2027_2015 -> cunha=liberado
